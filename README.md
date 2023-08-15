@@ -28,4 +28,4 @@ Firebase to store user information & manage authentication
 Stripe to process payments
 Google Cloud for maps and restaurant information
 
-*I built this app as part of the Complete React Native Developer course from Zero to Mastery Academy, taught by Andrei Neagoie and Mo Binni.*
+*I built this app as part of the Complete React Native Developement course from Zero to Mastery Academy, taught by Andrei Neagoie and Mo Binni.*
